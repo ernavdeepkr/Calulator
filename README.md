@@ -10,7 +10,7 @@ $ python Calculator.py
 Give results on the basis of input given by users.
 
 ```python
-$ python Calculator.py 
+$python Calculator.py 
 import tkinter
 or
 from tkinter import *
